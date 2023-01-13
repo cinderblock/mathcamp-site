@@ -1,2 +1,2 @@
 # mathcamp-site
-Mathcamp @ BRC website
+Content of the Mathcamp @ BRC website (www.mathcamp.us)
